@@ -1,0 +1,4 @@
+#Thu Apr 24 06:41:41 IST 2025
+__DEFAULT__=false
+expression=delete workspace
+org.eclipse.help.ui.localSearch.master=true
